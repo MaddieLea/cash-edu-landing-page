@@ -1,0 +1,11 @@
+@import "./assets/css/navBar.css";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body,html {
+    width: 100%;
+    height: 100%;
+}
