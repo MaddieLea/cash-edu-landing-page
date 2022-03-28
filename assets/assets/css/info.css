@@ -2,12 +2,13 @@
 
 .container {
     margin: 1%;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
 }
 
 .container .alongside-div {
-    position: absolute;
-    left: 48%;
-    top: 70%;
+    
     width: 50%;
     height: 40%;
     text-align: center;
@@ -37,7 +38,9 @@
 
 
 .container .box-itens {
-    width: 40%;
+    position: relative;
+    right: 4%;
+    width: 90%;
     height: auto;
     display: flex;
     border: 2px solid #a4abb3;
@@ -85,4 +88,8 @@
     margin-left: 2rem;
     background-color: #fff9ee;
     margin: 1.5rem;
+}
+.box-of-boxes{
+    width: 50%;
+    border: 2px solid red;
 }
