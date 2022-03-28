@@ -2,13 +2,11 @@
 
 .container {
     margin: 1%;
-    border: 2px solid;
     display: flex;
     align-items: center;
 }
 
 .container .alongside-div {
-    
     width: 50%;
     height: 40%;
     text-align: center;
@@ -91,5 +89,4 @@
 }
 .box-of-boxes{
     width: 50%;
-    border: 2px solid red;
 }
