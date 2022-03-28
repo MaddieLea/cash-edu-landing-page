@@ -1,4 +1,6 @@
-@import "./assets/css/navBar.css";
+@import './assets/assets/css/inicio-pag.css';
+@import './assets/assets/css/info.css';
+@import './assets/assets/css/sobre.css';
 
 * {
     margin: 0px;
