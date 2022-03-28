@@ -38,7 +38,7 @@
 .container .box-itens {
     position: relative;
     right: 4%;
-    width: 90%;
+    width: 80%;
     height: auto;
     display: flex;
     border: 2px solid #a4abb3;
@@ -89,4 +89,5 @@
 }
 .box-of-boxes{
     width: 50%;
+    
 }

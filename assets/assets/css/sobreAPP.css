@@ -1,0 +1,159 @@
+/* div sobreapp */
+#sobreapp {
+    display: flex;
+    background-color: #ffd95a;
+    width:100%;
+    height:130%;
+    margin-bottom: 30px;
+}
+/* div esquerda pagina */
+#sobreapp #esquerda {
+    float:left;
+    width:70%;
+    height:100%;
+}
+
+#sobreapp #esquerda p {
+    position: relative;
+    left: 20%;
+    width:60%;
+    height:100%;
+    border: 1px solid;
+}
+/* div geral de Sobre o app */
+#sobreapp #esquerda #infos-sobre {
+    width:100%;
+    margin-top:150px;
+    text-align:center;
+    padding-left:80px;
+    padding-right:80px;
+}
+/* div sobre o app */
+#sobreapp #esquerda #infos-sobre #titulo-sobre h3{
+    text-transform:uppercase;
+    font-size:45px;
+    color: #3f5166
+}
+/* div esquerda paragrafo */
+#sobreapp #esquerda #infos-sobre .paragraf{
+    position: relative;
+    right: 12%;
+    margin-top:20px;
+    color: #8d96b1;
+    font-size: 22px;
+    text-align: center;
+    width: 120%;
+    height:40%;
+}
+/* div esquerda store */
+#sobreapp #esquerda #infos-sobre #store {
+    margin-top:60px;
+}
+/* div direita pagina */
+#sobreapp #direita {
+    display: flex;
+    justify-content: center;
+    border: 2px red solid;
+    float:right;
+    width:80%;
+    height:75%;
+    padding-top: 10%;
+
+}
+/* div img na direita */
+#sobreapp #direita img {
+    border: 2px red solid;
+    position:relative;
+    width:46%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* rodapé */
+footer {
+    display:block;
+    height:57%;
+    bottom:0;
+    background-color:#3f5166;
+    padding-left: 30px;
+}
+/* div dentro de footer */
+footer #rodapé{
+    color:#F5FAFF;
+    font-size:18px;
+    padding-top: 5% ;
+    display:flex;
+    position: sticky;
+    height:80%;
+    width:100%;
+}
+/* div da imagem */
+footer #rodapé #logo {
+    height:100%;
+    width:20%;
+}
+/* imagem dentro da div logo */
+footer #rodapé #logo img {
+    width:80%;
+    position: relative;
+    left: 5%;
+    bottom: 14%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:25%;
+    border: 2px solid;
+}
+/* div estudantes */
+footer #rodapé #estudantes {
+    height:100%;
+    width:20%;
+}
+/* class descrição em estudantes */
+footer #rodapé .descrição {
+    margin-left:55px;
+}
+/* tag ul na class descrição */
+footer #rodapé .descrição ul {
+    list-style:none;
+}
+/* tag li em tag ul */
+footer #rodapé .descrição ul li{
+    display:flex;
+    margin-top:15px;
+    margin-bottom: 15px;
+      
+}
+/* i em li */
+footer #rodapé .descrição ul li i {
+    color:#7eb8d7
+}
+/* p em li */
+footer #rodapé #estudantes #descrição ul li p {
+    border-bottom: 1px solid #F5FAFF;
+    list-style: disc;  
+}
+/* estiliza apenas o titulo da div perguntas */
+footer #rodapé #perguntas .descrição {
+    border-bottom:2px solid;
+}
+/* altera div redes dentro de footer */
+footer #rodapé #redes {
+    position:relative;
+    height:100%;
+    left:10%;
+
+}
+/* altera os spans dentro de icons */
+footer #rodapé #redes #icons span {
+    border-radius:3px;
+    width:50%;
+    display:flex;
+}
+/* 1 */
+footer #rodapé #redes #icons span i {
+    border:1px solid white;
+    font-size:30px;
+    border-radius:4px;
+    margin:10px;
+}

@@ -19,10 +19,11 @@
 }
 
 #quemSomos {
-    margin-top: 11%;
-    width: 100vw;
-    height: 100vh;
+    margin-top: 12%;
+    width: 98vw;
+    height: 98vh;
     display: flex;
+    border: #3f5166 solid 2px;
 }
 
 #quemSomos #imagem {

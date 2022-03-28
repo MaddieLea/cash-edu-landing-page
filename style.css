@@ -1,6 +1,8 @@
 @import './assets/assets/css/inicio-pag.css';
 @import './assets/assets/css/info.css';
 @import './assets/assets/css/sobre.css';
+@import './assets/assets/css/form.css';
+@import './assets/assets/css/sobreAPP.css';
 
 * {
     margin: 0px;
