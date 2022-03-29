@@ -88,7 +88,7 @@
 }
 */
 .forma {
-    height: 100vh;
+    height: 105vh;
     display: flex;
     flex-shrink: 0;
     flex-wrap: wrap;
@@ -149,18 +149,17 @@
 
 .formulario #btn-send{
     position: relative;
-    left: 58%;
+    left: 54.6%;
     font-size: 15px;
     border: none;
     background-color: #c99b02;
-    width: 300px;
+    width: 350px;
     color: white;
     border-radius: 5px;
     height: 38px;
     
 }
 #move-btn {
-    
     width: 800px;
    position: relative;
 }
