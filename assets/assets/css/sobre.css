@@ -21,9 +21,8 @@
 #quemSomos {
     margin-top: 12%;
     width: 98vw;
-    height: 98vh;
+    height: 75vh;
     display: flex;
-    border: #3f5166 solid 2px;
 }
 
 #quemSomos #imagem {
