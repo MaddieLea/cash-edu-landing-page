@@ -1,4 +1,4 @@
-#cash-edu-landing-page
+cash-edu-landing-page
 
 ##
 
